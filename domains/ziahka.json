@@ -1,0 +1,10 @@
+{
+  "description": "ziahka.is-a.dev",
+  "owner": {
+    "username": "ziahka",
+    "email": "ziahka@bk.ru"
+  },
+  "records": {
+    "A": ["64.188.79.62"]
+  }
+}
